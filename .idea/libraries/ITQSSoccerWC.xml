@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ITQSSoccerWC">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/ITQSSoccerWC.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
